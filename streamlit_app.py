@@ -1,3 +1,4 @@
+import snowflake.connector
 import streamlit
 
 streamlit.title("Snowflake Trial - Zena's Athleisure Catalog")
